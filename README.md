@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hameedullah Shirzay
 
-Welcome to my GitHub profile! I'm a passionate junior developer, problem solver, and technology enthusiast who loves creating impactful applications. Below are some highlights of my work and interests.
+Welcome to my GitHub profile! I'm a passionate junior developer, problem solver, and technology enthusiast who loves creating impactful applications. Below are some interests.
 🎯 Software Tester | 🛠️ Automation & Manual Testing | 💻 Passionate about Quality Assurance
-🌟 Experienced in Selenium, JIRA, and TestNG | 📈 Ensuring software excellence!
+🌟 Experienced in Selenium, Pytest | 📈 Ensuring software excellence!
 
 
 ## 🔧 Skills & Tools

@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @HameedShirzay
-- 👀 I’m interested in Football
-- 🌱 I’m currently learning at Master School
-- 📫 hameedshirzay@gmail.com
-- +4917640139179
+# 👋 Hi, I'm Hameedullah Shirzay
 
-<!---
-HameedShirzay/HameedShirzay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-the new line has been add
+Welcome to my GitHub profile! I'm a passionate junior developer, problem solver, and technology enthusiast who loves creating impactful applications. Below are some highlights of my work and interests.
 
+## 🔧 Skills & Tools
+- **Languages:** Python, HTML, CSS
+- **Tools:** Git, VS Code, PyCharm
+- **Testing:** Selenium, pytest
+
+## 🌟 Projects
+### [Personal Portfolio Website](https://hameedshirzay.github.io/portfolio/)
+- A responsive portfolio website showcasing my projects, skills, and achievements.
+- Built with HTML, CSS, and JavaScript.
+
+## 📈 GitHub Stats
+![Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HameedShirzay&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- **LinkedIn:** [Hameed Shirzay](https://linkedin.com/in/hameedshirzay)
+- **Email:** hameedshirzay2@gmail.com

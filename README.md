@@ -7,11 +7,6 @@ Welcome to my GitHub profile! I'm a passionate junior developer, problem solver,
 - **Tools:** Git, VS Code, PyCharm
 - **Testing:** Selenium, pytest
 
-## 🌟 Projects
-### [Personal Portfolio Website](https://hameedshirzay.github.io/portfolio/)
-- A responsive portfolio website showcasing my projects, skills, and achievements.
-- Built with HTML, CSS, and JavaScript.
-
 ## 📈 GitHub Stats
 ![Hameed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HameedShirzay&show_icons=true&theme=radical)
 
